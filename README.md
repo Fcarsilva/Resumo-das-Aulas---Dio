@@ -1,2 +1,2 @@
 # Resumo-Das-Aulas-Dio
-Resumo das Aula do Bootcamp da Dio.
+Resumo das Aulas do Bootcamp da Dio.
